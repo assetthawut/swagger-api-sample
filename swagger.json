@@ -1,9 +1,9 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "description" : "This is a simple API modify by Setthawut Sukmuang",
+    "description" : "This is a simple API modify by Setthawut Sukmuang code 1234",
     "version" : "1.0.0",
-    "title" : "Simple Inventory API 1234",
+    "title" : "Simple Inventory API",
     "contact" : {
       "email" : "s.sukmuang@togetherteam.co.th"
     },
@@ -18,7 +18,7 @@
     "name" : "admins",
     "description" : "Secured Admin-only calls"
   }, {
-    "name" : "junior developers",
+    "name" : "developers",
     "description" : "Operations available to regular developers"
   } ],
   "schemes" : [ "https" ],
